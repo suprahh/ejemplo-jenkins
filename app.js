@@ -1,4 +1,11 @@
 'use strict'
 let contador = 1;
 
-console.log(contador);
+let multiplicador = 20
+
+
+function multiplicado(numero, multiplicador) {
+    return numero * multiplicador;
+}
+console.log("============== multiplicando =============")
+console.log(multiplicado(contador, multiplicador));
