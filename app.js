@@ -9,3 +9,4 @@ function multiplicado(numero, multiplicador) {
 }
 console.log("============== multiplicando =============")
 console.log(multiplicado(contador, multiplicador));
+console.log("============== multiplicando =============")
